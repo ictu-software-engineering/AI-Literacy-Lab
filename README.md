@@ -15,7 +15,7 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 ## Offical Lab Members
 1. Nguyen Huu Khanh
 2. Nguyen Van Viet
-![](https://geps.dev/progress/10)
+![xxx](https://geps.dev/progress/15)
 
 3. Nguyen Kim Son
 4. Luong Thi Minh Hue
