@@ -13,10 +13,8 @@ At the AI Literacy Lab, our interdisciplinary approach and commitment to cutting
 ## Lab Head
 Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Information Technology, Thai Nguyen University of Information and Communication Technology. He graduated with a master's degree in information systems management from Oklahoma State University, USA (under scholarship 322). He completed his PhD program under Project 911 in 2020 at Texas Tech University, USA. His main research interests are Statistics, Data Visualization and Artificial Intelligence. He has authored or coauthored more than 50 publications with 14 H-index and more than 590 citations . He can be found on Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=6rZWCbcAAAAJ"><img src="http://scholar.google.com/favicon.ico" alt="Open In Google Scholar"></a> or Scopus:  <a href="https://www.scopus.com/authid/detail.uri?authorId=57210589113"><img src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0" alt="Open In Google Scholar"></a>
 ## Offical Lab Members
-1. Nguyen Huu Khanh
-2. Nguyen Van Viet
-![xxx](https://geps.dev/progress/15)
-
-3. Nguyen Kim Son
-4. Luong Thi Minh Hue
+1. Nguyen Huu Khanh: Goal to graduation --> ![xxx](https://geps.dev/progress/0)
+2. Nguyen Van Viet: Goal to graduation --> ![xxx](https://geps.dev/progress/15)
+3. Nguyen Kim Son: Goal to graduation --> ![xxx](https://geps.dev/progress/0)
+4. Luong Thi Minh Hue: Goal to graduation --> ![xxx](https://geps.dev/progress/0)
 
