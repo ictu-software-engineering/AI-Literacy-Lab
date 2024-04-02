@@ -17,6 +17,6 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 2. Nguyen Van Viet
 3. Nguyen Kim Son
 4. Luong Thi Minh Hue
-
+5. Nguyen Thi Duyen
 # Updates
 - Congratulation for **Nguyen Van Viet** for the first conference research paper on "Overview research on the use of Large Language Models (LLMs) in the field of software engineering" at VCCA2024
