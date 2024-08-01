@@ -18,6 +18,6 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 3. Nguyen Kim Son (started from June 2024)
 4. Luong Thi Minh Hue (started from June 2024)
 # Updates
-- [26 July, 2024] Congratulation for **Nguyen Huu Khanh** for the first conference research paper on "SỰ PHÁT TRIỂN CỦA NGHIÊN CỨU KHOA HỌC TẠI ĐẠI HỌC THÁI NGUYÊN QUA TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ - ĐẠI HỌC THÁI NGUYÊN GIAI ĐOẠN 2017 - 2023" at TNU Journal of Science and Technology 
-- [14 June, 2024] Congratulation for **Luong Thi Minh Hue** for the first conference research paper on "NGHIÊN CỨU TỔNG QUAN ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRONG TẠO VIỆC XÂY DỰNG VIDEO HỌC LIỆU SỐ" at Vinh University Journal of Science 
+- [26 July, 2024] Congratulation for **Nguyen Huu Khanh** for the first journal research paper on "SỰ PHÁT TRIỂN CỦA NGHIÊN CỨU KHOA HỌC TẠI ĐẠI HỌC THÁI NGUYÊN QUA TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ - ĐẠI HỌC THÁI NGUYÊN GIAI ĐOẠN 2017 - 2023" at TNU Journal of Science and Technology 
+- [14 June, 2024] Congratulation for **Luong Thi Minh Hue** for the first journal research paper on "NGHIÊN CỨU TỔNG QUAN ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRONG TẠO VIỆC XÂY DỰNG VIDEO HỌC LIỆU SỐ" at Vinh University Journal of Science 
 - Congratulation for **Nguyen Van Viet** for the first conference research paper on "Overview research on the use of Large Language Models (LLMs) in the field of software engineering" at VCCA2024
