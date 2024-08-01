@@ -13,10 +13,10 @@ At the AI Literacy Lab, our interdisciplinary approach and commitment to cutting
 ## Lab Head
 Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Information Technology, Thai Nguyen University of Information and Communication Technology. He graduated with a master's degree in information systems management from Oklahoma State University, USA (under scholarship 322). He completed his PhD program under Project 911 in 2020 at Texas Tech University, USA. His main research interests are Statistics, Data Visualization and Artificial Intelligence. He has authored or coauthored more than 50 publications with 14 H-index and more than 650 citations . He can be found on Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=6rZWCbcAAAAJ"><img src="http://scholar.google.com/favicon.ico" alt="Open In Google Scholar"></a> or Scopus:  <a href="https://www.scopus.com/authid/detail.uri?authorId=57210589113"><img src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0" alt="Open In Google Scholar"></a>
 ## Offical Lab Members
-1. Nguyen Huu Khanh
-2. Nguyen Van Viet
-3. Nguyen Kim Son
-4. Luong Thi Minh Hue
+1. Nguyen Huu Khanh (started from Dec 2023)
+2. Nguyen Van Viet (started from Dec 2023)
+3. Nguyen Kim Son (started from June 2024)
+4. Luong Thi Minh Hue (started from June 2024)
 # Updates
 - [26 July, 2024] Congratulation for **Nguyen Huu Khanh** for the first conference research paper on "SỰ PHÁT TRIỂN CỦA NGHIÊN CỨU KHOA HỌC TẠI ĐẠI HỌC THÁI NGUYÊN QUA TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ - ĐẠI HỌC THÁI NGUYÊN GIAI ĐOẠN 2017 - 2023" at TNU Journal of Science and Technology 
 - [14 June, 2024] Congratulation for **Luong Thi Minh Hue** for the first conference research paper on "NGHIÊN CỨU TỔNG QUAN ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRONG TẠO VIỆC XÂY DỰNG VIDEO HỌC LIỆU SỐ" at Vinh University Journal of Science 
