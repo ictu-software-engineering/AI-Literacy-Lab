@@ -18,8 +18,8 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 3. Nguyen Kim Son (started from June 2024)
 4. Luong Thi Minh Hue (started from June 2024)
 # Updates
-- [15 August, 2024] Congratulation for **Nguyen Kim Son** for the _first conference_ research paper on "VizAgent: Towards an Intelligent and Versatile Data Visualization Framework Powered by Large Language Models" at ICTA2024 
-- [15 August, 2024] Congratulation for **Luong Thi Minh Hue** for the _first conference_ research paper on "Application of Large Language Models in Geographic Map Analysis and Visualization" at ICTA2024 
+- [15 August, 2024] Congratulation for **Luong Thi Minh Hue** for the _first conference_ research paper on "VizAgent: Towards an Intelligent and Versatile Data Visualization Framework Powered by Large Language Models" at ICTA2024 
+- [15 August, 2024] Congratulation for **Nguyen Kim Son** for the _first conference_ research paper on "Application of Large Language Models in Geographic Map Analysis and Visualization" at ICTA2024 
 - [15 August, 2024] Congratulation for **Nguyen Huu Khanh** for the _first conference_ research paper on "Phi-3 Meets Law: Fine-tuning Small Language Models for Legal Document Understanding" at ICTA2024 
 - [26 July, 2024] Congratulation for **Nguyen Huu Khanh** for the _first journal_ research paper on "SỰ PHÁT TRIỂN CỦA NGHIÊN CỨU KHOA HỌC TẠI ĐẠI HỌC THÁI NGUYÊN QUA TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ - ĐẠI HỌC THÁI NGUYÊN GIAI ĐOẠN 2017 - 2023" at TNU Journal of Science and Technology 
 - [14 June, 2024] Congratulation for **Luong Thi Minh Hue** for the _first journal_ research paper on "NGHIÊN CỨU TỔNG QUAN ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TRONG TẠO VIỆC XÂY DỰNG VIDEO HỌC LIỆU SỐ" at Vinh University Journal of Science 
